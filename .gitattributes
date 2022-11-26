@@ -4,4 +4,6 @@
 *.bat   text eol=crlf
 *.sh    text eol=lf
 
+*.pdf   binary
+
 gradle/wrapper/gradle-wrapper.jar binary
